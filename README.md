@@ -10,10 +10,10 @@ With a foundation in data modeling, ETL processes, and root cause analysis, I ai
 
 ## Skills  
 - **Programming**: Python, SQL  
-- **Visualization Tools**: Power BI, Tableau, Looker(Google Data Studio)  
-- **ETL & Data Wrangling/Pre-Processing**: Excel, Google Sheets, Power Query, Python (Pandas & NumPy), Alteryx.
+- **Visualization Tools**: Power BI, Tableau
+- **ETL & Data Wrangling/Pre-Processing**: Ms-Excel, Google Sheets, Power Query, Python (Pandas & Numpy)
 - **Data Analysis**: Cohort Analysis, Root Cause Analysis(RCA),Exploratory Data Analysis(EDA). 
-- **Machine Learning**: Linear Regression, Logistic Regression, K-Means Clustering, and more.
-    -  **Libraries**: NumPy, Pandas, Seaborn, Matplotlib, Scikit – learn, etc
-- **Database Management**: MySQL, RDBMS, Metabase, etc.
+- **Machine Learning**: Linear Regression, Logistic Regression, K-Means Clustering, Decision Trees, NLP and more.
+    -  **Libraries**: NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, etc
+- **Database Management**: MySQL, RDBMS, Databases systems etc.
 - **Statistics**: Descriptive Statistics, Probability Distributions, Regression Analysis, Hypothesis Testing, Quantitative Analysis, etc.
