@@ -37,7 +37,7 @@ You can view my detailed CV [here](CV.pdf).
 
      
 4. [Education](#education)  
-5. [Certificates/Courses](#certificates/courses)  
+5. [Certificates/Courses](#certificates-/-courses)  
 6. [Connect](#connect)   
 
 ## Education
