@@ -49,14 +49,12 @@ You can view my detailed CV [here](CV.pdf).
 
 
 ## Certificates/Courses
-- **● BCG - Data Science Job Simulation - Forage**: [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_yvZK8fdargwGnLHvx_1738672743026_completion_certificate.pdf)
-- **Analyzing Company Performance using Ratios**: [Link](https://coursera.org/share/a13d26b38a276490c51f50ba23027277)
-- **SQL Advanced Certificate by HackerRan**: [Link](https://www.hackerrank.com/certificates/a3f144dbee88)
-- **Microsoft Power BI Desktop for Business Intelligence”** by Udemy
-- **Python for Data Science and Machine Learning** by Udemy 
-- **MySQL for Data Analytics & Business Intelligence** by Udemy 
-
+- **BCG - Data Science Job Simulation - Forage**: [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_yvZK8fdargwGnLHvx_1738672743026_completion_certificate.pdf)
+- **British Airways - Data Science Job Simulation - Forage**: [Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_yvZK8fdargwGnLHvx_1736937506908_completion_certificate.pdf)
+- **SQL Advanced Certificate by HackerRan**: [Link](https://www.hackerrank.com/certificates/0bea6598e58a)
+- **Machine Learning** by Princeton Smart Engineers - (Credential ID: PSEML3069)
+- **Data Analysis with Python** by Infosys Springboard
 
 ## Connect 
-- **LinkedIn**: [@Anusha](https://www.linkedin.com/in/anusha-j-b0149b226)
-- **Email**: anushaj228@gmail.com
+- **LinkedIn**: [@Anusha](www.linkedin.com/in/chandan-l-19735b318)
+- **Email**: Chandanl0008@outlook.com
