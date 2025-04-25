@@ -41,10 +41,10 @@ You can view my detailed CV [here](CV.pdf).
 6. [Connect](#connect)   
 
 ## Education
-- **MCA** - **Business Analytics & Marketing** - 8.4 CGPA  
-  C (2021 - 2023)
-
-- **BSc** - **Computer Science & Mathematics** - 8.6 CGPA  
+- **Master of Computer Science** - 6.7 CGPA
+  Christ Academy for Institute and Advanced Studies (2022 - 2024)
+  
+- **BSc** - **Computer Science & Mathematics** - 7.7 CGPA  
   Bangalore University (2018 - 2021)
 
 
@@ -56,5 +56,5 @@ You can view my detailed CV [here](CV.pdf).
 - **Data Analysis with Python** by Infosys Springboard
 
 ## Connect 
-- **LinkedIn**: [@Anusha](www.linkedin.com/in/chandan-l-19735b318)
+- **LinkedIn**: [@Chandan](www.linkedin.com/in/chandan-l-19735b318)
 - **Email**: Chandanl0008@outlook.com
