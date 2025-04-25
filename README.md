@@ -17,3 +17,48 @@ With a foundation in data modeling, ETL processes, and root cause analysis, I ai
     -  **Libraries**: NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, etc
 - **Database Management**: MySQL, RDBMS, Databases systems etc.
 - **Statistics**: Descriptive Statistics, Probability Distributions, Regression Analysis, Hypothesis Testing, Quantitative Analysis, etc.
+
+## 📄 My CV  
+You can view my detailed CV [here](CV.pdf).   
+
+## 📚 Table of Contents  
+-  [About](#about)  
+- [Portfolio Projects](#portfolio-projects)
+ 
+   - Python
+       - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
+   - SQL
+       - [Employee Database Analysis with SQL](#employee-database-analysis-with-sql)
+   - Power BI
+       - [Adventure Works Sales & Profit Dashboard](#adventure-works-sales--profit-dashboard)
+   - Tableau
+       - [HR Attrition Rate Analysis](#analyzing-factors-contributing-to-employee-attrition)
+   - Excel/Google Sheets
+
+     
+4. [Education](#education)  
+5. [Certificates/Courses](#certificates)  
+6. [Connect](#connect)   
+
+## Education
+- **MCA** - **Business Analytics & Marketing** - 8.4 CGPA  
+  C (2021 - 2023)
+
+- **BSc** - **Computer Science & Mathematics** - 8.6 CGPA  
+  Bangalore University (2018 - 2021)
+
+
+## Certificates/Courses
+- **Business Analytics with Excel:Elementary to Advance**: [Link](https://coursera.org/share/6c0371adbc12b8a082e4f1cde5ee97af)
+- **Analyzing Company Performance using Ratios**: [Link](https://coursera.org/share/a13d26b38a276490c51f50ba23027277)
+- **SQL Advanced Certificate by HackerRank**: [Link](https://www.hackerrank.com/certificates/a3f144dbee88)
+- **Microsoft Power BI Desktop for Business Intelligence”** by Udemy
+- **Python for Data Science and Machine Learning** by Udemy 
+- **MySQL for Data Analytics & Business Intelligence** by Udemy 
+- **Alteryx Designer Core**: by Alteryx
+
+
+
+## Connect 
+- **LinkedIn**: [@Anusha](https://www.linkedin.com/in/anusha-j-b0149b226)
+- **Email**: anushaj228@gmail.com
