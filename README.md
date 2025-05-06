@@ -39,6 +39,7 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 6. [Connect](#connect)   
 
 ## Education
+
 - **Master of Computer Science** - 6.7 CGPA
   Christ Academy for Institute and Advanced Studies (2022 - 2024)
   
