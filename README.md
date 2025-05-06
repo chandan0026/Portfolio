@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Portfolio
 ## About
 ## Hi, I'm Chandan! 👋 
 
@@ -60,3 +60,24 @@ You can view my detailed CV [here](CV.pdf).
 - **Email**: Chandanl0008@outlook.com
 
 ## Portfolio Projects
+
+## Puma Sales Data Analysis
+
+**Code:** [Link](https://github.com/chandan0026/Portfolio-Projects/blob/main/puma_data.ipynb)
+
+**Goal:** To analyze real-world retail data from Puma, uncover key drivers of sales and profitability, and generate insights that can influence pricing, marketing, and inventory decisions.
+
+**Description:** This project dives deep into a structured dataset of 9,648 Puma sales transactions. Through data cleaning, visualization, and statistical analysis, I examined pricing patterns, sales volumes, profitability, and operational anomalies. The analysis was enriched with business-oriented commentary to bridge the gap between data and decision-making.
+
+**Skills/Tools/Technology:** Python, Pandas, Numpy, Hypothesis, Matplotlib, Seaborn, EDA.
+
+**Results:** 
+* Top 25% of transactions generated over $150K in revenue, while the bottom 25% fell below $4,200 — revealing a massive disparity in customer impact.
+* Profit margins ranged from 10% to 80%, signaling both high-efficiency deals and underperforming SKUs.
+* 0-unit transactions flagged as potential returns or cancellations, suggesting areas for operational review.
+* Price sweet spot identified at $35–$55/unit, covering 50% of product sales — a goldmine for pricing strategy.
+* Bulk orders exceeding 1,200 units in a single transaction revealed high-value clients worth targeting.
+
+
+
+ 
