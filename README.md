@@ -2,7 +2,7 @@
 ## About
 ## Hi, I'm Chandan! 👋 
 
-An aspiring analytics professional with a Master’s in Computer Applications and a strong command of data analysis, reporting, and business intelligence tools. My expertise spans across SQL, Excel, Python, Power BI, and Tableau—enabling me to extract, transform, and visualize data to support strategic decision-making.
+An aspiring analytics professional with a Master’s in Computer Applications and a strong command of data analysis, reporting, and business intelligence tools. My expertise spans across SQL, Excel, Python, Power BI, and Tableau - enabling me to extract, transform, and visualize data to support strategic decision-making.
 
 I bring hands-on experience in building automated dashboards, performing statistical and cohort analyses, and delivering actionable insights from structured and unstructured data. My work focuses on understanding business needs, identifying key metrics, and providing data-backed recommendations through clear and compelling visualizations.
 
