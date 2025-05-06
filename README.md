@@ -55,7 +55,7 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 - **Data Analysis with Python** by Infosys Springboard
 
 ## Connect 
-- **LinkedIn**: [@Chandan](www.linkedin.com/in/chandan-l-19735b318)
+- **LinkedIn**: [@Chandan](https://www.linkedin.com/in/chandan-l-19735b318)
 - **Email**: Chandanl0008@outlook.com
 - **Phone**: 9886395689
 
