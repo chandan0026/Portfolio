@@ -89,16 +89,17 @@ You can view my detailed CV [here](CV.pdf).
 **Skills/Tools/Technology:** Database, MySQL, EDA, Window Fuctions (Rank, Row_Number, Dense_Rank, Lah, etc)
 
 **Results:** 
-**Customer Activity Analysis:*
+
+*Customer Activity Analysis:*
   * Identified top 10 customers by highest total account balance — valuable for priority customer programs.
   * Detected customers with multiple accounts, enabling potential cross-selling of services (e.g., loans, investments).
-**Account Health & Usage:*
+*Account Health & Usage:*
   * Found that over 20% of accounts were inactive or closed, suggesting opportunities for reactivation campaigns or churn analysis.
   * Queried accounts with zero balance and no recent transactions, pointing to dormant accounts needing follow-up.
-**Transaction Trends:*
+*Transaction Trends:*
   * Analyzed monthly transaction volumes — revealed spikes during payday periods and year-end, highlighting customer spending behavior.
   * Calculated average transaction amount per account type (savings vs current) — useful for fee structure and product strategy.
-**Operational Insights:*
+*Operational Insights:*
   * Flagged accounts with frequent large debit transactions — could indicate high-risk behavior or business account usage.
   * Determined accounts opened but never funded, allowing the bank to take preventive measures against fraud or system mis
 
