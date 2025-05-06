@@ -26,7 +26,7 @@ You can view my detailed CV [here](CV.pdf).
 - [Portfolio Projects](#portfolio-projects)
  
    - Python
-       - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
+       - [## Puma Sales Data Analysis](#puma-sales-data-analysis)
    - SQL
        - [Employee Database Analysis with SQL](#employee-database-analysis-with-sql)
    - Power BI
