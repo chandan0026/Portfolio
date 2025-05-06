@@ -23,7 +23,7 @@ You can view my detailed CV [here](CV.pdf).
 
 ## 📚 Table of Contents  
 -  [About](#about)  
-- [Portfolio Projects](#portfolio-projects)
+- [Portfolio Projects](#portfolio projects)
  
    - Python
        - [Analyzing Factors Affecting E-Commerce Sales and Profitability](#analyzing-factors-affecting-e-commerce-sales-and-profitability)
@@ -58,3 +58,5 @@ You can view my detailed CV [here](CV.pdf).
 ## Connect 
 - **LinkedIn**: [@Chandan](www.linkedin.com/in/chandan-l-19735b318)
 - **Email**: Chandanl0008@outlook.com
+
+## Portfolio Projects
