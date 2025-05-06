@@ -78,6 +78,30 @@ You can view my detailed CV [here](CV.pdf).
 * Price sweet spot identified at $35–$55/unit, covering 50% of product sales — a goldmine for pricing strategy.
 * Bulk orders exceeding 1,200 units in a single transaction revealed high-value clients worth targeting.
 
+## Banking Database Design & Analysis
+
+**Code:** [Link](https://github.com/chandan0026/Portfolio-Projects/blob/main/banking%20-%20project.sql)
+
+**Goal:** To build a robust SQL-based banking system to simulate customer, account, and transaction data — enabling structured storage, secure relationships, and meaningful financial insights.
+
+**Description:** This project involved designing and implementing a complete relational schema for a retail bank using SQL. The system supports real-world banking operations such as customer onboarding, account management, and transaction logging. Additionally, advanced SQL queries were used to generate insights into customer activity, account balances, transaction volumes, and more.
+
+**Skills/Tools/Technology:** Database, MySQL, EDA, Window Fuctions (Rank, Row_Number, Dense_Rank, Lah, etc)
+
+**Results:** 
+**Customer Activity Analysis:*
+  * Identified top 10 customers by highest total account balance — valuable for priority customer programs.
+  * Detected customers with multiple accounts, enabling potential cross-selling of services (e.g., loans, investments).
+**Account Health & Usage:*
+  * Found that over 20% of accounts were inactive or closed, suggesting opportunities for reactivation campaigns or churn analysis.
+  * Queried accounts with zero balance and no recent transactions, pointing to dormant accounts needing follow-up.
+**Transaction Trends:*
+  * Analyzed monthly transaction volumes — revealed spikes during payday periods and year-end, highlighting customer spending behavior.
+  * Calculated average transaction amount per account type (savings vs current) — useful for fee structure and product strategy.
+**Operational Insights:*
+  * Flagged accounts with frequent large debit transactions — could indicate high-risk behavior or business account usage.
+  * Determined accounts opened but never funded, allowing the bank to take preventive measures against fraud or system mis
+
 
 
  
