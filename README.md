@@ -28,7 +28,7 @@ You can view my detailed CV [here](CV.pdf).
    - Python
        - [Puma Sales Data Analysis](#puma-sales-data-analysis)
    - SQL
-       - [## Banking Database Design and Analysis](#banking-database-design-and-analysis)
+       - [Banking Database Design and Analysis](#banking-database-design-and-analysis)
    - Power BI
    - Tableau
    - Excel/Google Sheets
@@ -56,6 +56,7 @@ You can view my detailed CV [here](CV.pdf).
 ## Connect 
 - **LinkedIn**: [@Chandan](www.linkedin.com/in/chandan-l-19735b318)
 - **Email**: Chandanl0008@outlook.com
+- **Phone**: 9886395689
 
 ## Portfolio Projects
 
