@@ -26,13 +26,11 @@ You can view my detailed CV [here](CV.pdf).
 - [Portfolio Projects](#portfolio-projects)
  
    - Python
-       - [## Puma Sales Data Analysis](#puma-sales-data-analysis)
+       - [Puma Sales Data Analysis](#puma-sales-data-analysis)
    - SQL
-       - [Employee Database Analysis with SQL](#employee-database-analysis-with-sql)
+       - [## Banking Database Design and Analysis](#banking-database-design-and-analysis)
    - Power BI
-       - [Adventure Works Sales & Profit Dashboard](#adventure-works-sales--profit-dashboard)
    - Tableau
-       - [HR Attrition Rate Analysis](#analyzing-factors-contributing-to-employee-attrition)
    - Excel/Google Sheets
 
      
@@ -78,7 +76,7 @@ You can view my detailed CV [here](CV.pdf).
 * Price sweet spot identified at $35–$55/unit, covering 50% of product sales — a goldmine for pricing strategy.
 * Bulk orders exceeding 1,200 units in a single transaction revealed high-value clients worth targeting.
 
-## Banking Database Design & Analysis
+## Banking Database Design and Analysis
 
 **Code:** [Link](https://github.com/chandan0026/Portfolio-Projects/blob/main/banking%20-%20project.sql)
 
