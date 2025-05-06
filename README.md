@@ -41,10 +41,10 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 ## Education
 
 - **Master of Computer Science** - 6.7 CGPA
-  Christ Academy for Institute and Advanced Studies (2022 - 2024)
+   Christ Academy for Institute and Advanced Studies (2022 - 2024)
   
 - **BSc** - **Computer Science & Mathematics** - 7.7 CGPA  
-  Bangalore University (2018 - 2021)
+   Bangalore University (2018 - 2021)
 
 
 ## Certificates/Courses
