@@ -1,6 +1,7 @@
 # Portfolio
 ## About
 ## Hi, I'm Chandan! 👋 
+![Uploading image.png…]()
 
 An aspiring analytics professional with a Master’s in Computer Applications and a strong command of data analysis, reporting, and business intelligence tools. My expertise spans across SQL, Excel, Python, Power BI, and Tableau - enabling me to extract, transform, and visualize data to support strategic decision-making.
 
