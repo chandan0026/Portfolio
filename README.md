@@ -30,6 +30,7 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
    - SQL
        - [Banking Database Design and Analysis](#banking-database-design-and-analysis)
    - Power BI
+       - [Olist Store Analysis](#olist-store-analysis)
    - Tableau
    - Excel/Google Sheets
 
