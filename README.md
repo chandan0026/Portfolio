@@ -104,7 +104,7 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 
 *Operational Insights:*
   * Flagged accounts with frequent large debit transactions — could indicate high-risk behavior or business account usage.
-  * Determined accounts opened but never funded, allowing the bank to take preventive measures against fraud or system mis
+  * Determined accounts opened but never funded, allowing the bank to take preventive measures against fraud or system misuse
 
 
 
