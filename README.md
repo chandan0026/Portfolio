@@ -108,4 +108,4 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 
 file:///C:/Users/Anusha%20J/Desktop/Docs/CC/Power%20BI/Olist%20Store%20Analysis.pdf
 
- 
+[docs/Olist Store Analysis.pdf] 
