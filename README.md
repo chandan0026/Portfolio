@@ -106,6 +106,10 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
   * Flagged accounts with frequent large debit transactions — could indicate high-risk behavior or business account usage.
   * Determined accounts opened but never funded, allowing the bank to take preventive measures against fraud or system misuse
 
-file:///C:/Users/Anusha%20J/Desktop/Docs/CC/Power%20BI/Olist%20Store%20Analysis.pdf
+## Olist Store Analysis
 
-[docs/Olist Store Analysis.pdf] 
+**Code:** [Link](https://github.com/chandan0026/Portfolio-Projects/blob/main/Olist%20Store%20Analysis.pdf)
+
+**Goal:** Explore the company's product volume, sales, and customer satisfaction rating for products. Analyze delivery performance and user delivery agent ratings to improve the service.
+
+**Skills/Tools/Technology:** Power BI, DAX, Data Modelling, Data Visualization
