@@ -109,8 +109,9 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 
 ## Olist Store Analysis
 
-**Code:** [Link](https://github.com/chandan0026/Portfolio-Projects/blob/main/Olist%20Store%20Analysis.pdf)
+**Code:** [Link](https://github.com/chandan0026/Portfolio-Projects/blob/main/Olist%20Store%20Analysis.pdf) 
+Dataset: [Olist Brazilian E-commerce Public Dataset (2016–2018)]
 
-**Goal:** Explore the company's product volume, sales, and customer satisfaction rating for products. Analyze delivery performance and user delivery agent ratings to improve the service.
+**Goal:** To analyze the performance of Olist's online marketplace operations by exploring order volume, sales revenue, delivery efficiency, customer satisfaction, and seller behavior. The dashboard provides actionable insights for stakeholders to improve logistics, customer experience, and sales strategy.
 
 **Skills/Tools/Technology:** Power BI, DAX, Data Modelling, Data Visualization
