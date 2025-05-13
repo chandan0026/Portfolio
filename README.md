@@ -119,7 +119,7 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 
 **Insights:**
 
-📦 **Order and Delivery Overview**
+📦 *Order and Delivery Overview*
          * Total Orders: 99,441
 
 
