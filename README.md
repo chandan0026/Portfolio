@@ -157,7 +157,7 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
   * Top Seller State: SP – 1,849 sellers
   * Geographic Reach: Sellers primarily operate from South America.
 
-*🔍 Key Findings: *
+🔍 Key Findings: 
    * Sales and order volumes have grown steadily from 2016 to 2018.
    * Shipping is mostly moderate; focus on reducing 15% delayed shipments.
    * Customer satisfaction is high, but categories with poor reviews should be audited.
