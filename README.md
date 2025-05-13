@@ -116,3 +116,11 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 **Goal:** To analyze the performance of Olist's online marketplace operations by exploring order volume, sales revenue, delivery efficiency, customer satisfaction, and seller behavior. The dashboard provides actionable insights for stakeholders to improve logistics, customer experience, and sales strategy.
 
 **Skills/Tools/Technology:** Power BI, DAX, Data Modelling, Data Visualization
+
+**Insights:**
+
+📦 ***Order and Delivery Overview***
+Total Orders: 99,441
+
+
+
