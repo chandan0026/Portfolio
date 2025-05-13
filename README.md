@@ -109,7 +109,7 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 
 ## Olist Store Analysis
 
-**Code:** [Link](https://github.com/chandan0026/Portfolio-Projects/blob/main/Olist%20Store%20Analysis.pdf) 
+**Code:** [Dahboard pdf Link](https://github.com/chandan0026/Portfolio-Projects/blob/main/Olist%20Store%20Analysis.pdf) 
 
 *Dataset:* Olist Brazilian E-commerce Public Dataset (2016–2018)
 
