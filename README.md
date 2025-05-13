@@ -123,7 +123,7 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
          *Total Orders: 99,441
 
 
-*Account Health & Usage:*
+*📦 Order and Delivery Overview:*
   * Found that over 20% of accounts were inactive or closed, suggesting opportunities for reactivation campaigns or churn analysis.
   * Queried accounts with zero balance and no recent transactions, pointing to dormant accounts needing follow-up.
 
