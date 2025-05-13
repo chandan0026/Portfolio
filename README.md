@@ -121,7 +121,48 @@ You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Proj
 
 *📦 Order and Delivery Overview:*
   * Total Orders: 99,441
-  * Queried accounts with zero balance and no recent transactions, pointing to dormant accounts needing follow-up.
+  * Delivered Orders: 96,481 → Delivery Success Rate: 97%
+  * Cancelled Orders: 625
+  * Order volume showed a strong upward trend, increasing from 329 in 2016 to 45,101 in 2017 and reaching 54,011 in 2018.
+  * Peak Month: November 2017 with 7,544 orders
+  * Seasonality: Q3 & Q4 show consistently higher order volumes.
 
+*💰 Sales and Product Insights:*
+  * Total Revenue: R$16M
+  * Total Products Sold: 32,950
+  * Top Product Category: Bed Bath and Table
+  * Most Cancelled Category: Sports Leisure
+  * High sales are driven by single installment or 7–12 installment payments.
+  * Highest Monthly Payment Volume: R$71,897 (Nov 2017)
+
+*🚚 Shipping Performance:*
+  * Most orders (75.7%) shipped at a moderate speed, while 15.6% were delayed and only 8.3% were shipped quickly.
+  * Average Time to Order Approval: 10.4 minutes
+  * Average Shipping Time Post-Approval: 6.21 days
+  * *Insight:* While approval times are excellent, 15% delayed orders suggest improvement areas in fulfillment or carrier performance.
+
+*🧑‍💼 Customer Analytics:*
+  * Unique Customers: 96,096
+  * Orders span 27 states, 4,119 cities, and nearly 15,000 postal codes, highlighting Olist’s broad geographic reach across Brazil.
+  * Customer demand is widely distributed, with São Paulo city leading with 15.54K orders.
+  * With an average rating of 4.1, 97% of customers reported satisfaction, reflecting strong overall customer experience.
+  * Most orders (77%) received good ratings, while 15% were rated poor and 8% average.
+  * Credit cards dominate payments (75%), followed by boleto (19%), with vouchers and debit making up the remaining 5%.
+
+*🧑‍💼 Customer Analytics:*
+  * Total Sellers: 3,095
+  * Active (Delivering) Sellers: 2,970
+  * Top Seller (by Orders): 6560211a19b47992c3666cc44a7e94c0
+  * Top Seller Location: São Paulo
+  * Top Seller State: SP – 1,849 sellers
+  * Geographic Reach: Sellers primarily operate from South America.
+
+*🔍 Key Findings: *
+   * Sales and order volumes have grown steadily from 2016 to 2018.
+   * Shipping is mostly moderate; focus on reducing 15% delayed shipments.
+   * Customer satisfaction is high, but categories with poor reviews should be audited.
+   * Installment options play a major role in driving higher-value purchases.
+   * Majority of transactions are completed via credit cards (75%).
+   * Concentration of sellers in São Paulo suggests a central logistics 
 
 
