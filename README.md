@@ -19,7 +19,7 @@ With a foundation in data modeling, ETL processes, and root cause analysis, I ai
 - **Statistics**: Descriptive Statistics, Probability Distributions, Regression Analysis, Hypothesis Testing, Quantitative Analysis, etc.
 
 ## 📄 My CV  
-You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Projects/blob/main/Resume%20-%20Chandan.pdf).   
+You can view my detailed CV [here](https://github.com/chandan0026/Portfolio-Projects/blob/main/CHANDAN%20L.pdf).   
 
 ## 📚 Table of Contents  
 -  [About](#about)  
